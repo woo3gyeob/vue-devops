@@ -3,4 +3,4 @@ const obj = {
   outputDir: "dist"
 }
 
-export default obj
+export { obj }
