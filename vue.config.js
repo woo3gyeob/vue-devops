@@ -1,2 +1,6 @@
-export const publicPath = "/vue-devops/";
-export const outputDir = "dist";
+const obj = {
+  publicPath: "/vue-devops/",
+  outputDir: "dist"
+}
+
+export default obj
