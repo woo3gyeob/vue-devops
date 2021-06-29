@@ -1,6 +1,4 @@
-const obj = {
-  publicPath: "/vue-devops/",
-  outputDir: "dist"
-}
-
-export { obj }
+module.exports={
+  publicPath:"/vue-devops/",
+  outputDir:"dist"
+};
